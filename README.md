@@ -1,7 +1,7 @@
 # Repositories
-[Репозиторий проектов Нетологии](https://github.com/NetologyProjects)
+[Репозиторий домашних работ по курсу QA в Нетологии](https://github.com/NetologyProjects)
 
-[Репозиторий проектов ШИФТ](https://github.com/ShiftProjects)
+[Репозиторий домашних работ по курсу QA в ШИФТ](https://github.com/ShiftProjects)
 
 [Резюме](https://serggrebnev.github.io/-resume/)
 

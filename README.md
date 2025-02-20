@@ -1,4 +1,6 @@
 # Repositories
+[Репозиторий PET-проектов](https://github.com/SergPetProjects)
+
 [Репозиторий домашних работ по курсу QA в Нетологии](https://github.com/NetologyProjects)
 
 [Репозиторий домашних работ по курсу QA в ШИФТ](https://github.com/ShiftProjects)
